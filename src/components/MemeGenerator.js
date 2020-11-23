@@ -70,7 +70,7 @@ class MemeGenerator extends Component {
                     <input type="submit" className="btn btn-info" value="Gen"/>
                   </Form>
                   <br />
-                  <div className="container">
+                  <div className="container pb-5 mb-5">
                     <img src={this.state.randomImg} className="img-fluid" alt="" />
                     <h1 className="top">{this.state.topText}</h1>
                     <h1 className="bottom">{this.state.bottomText}</h1>
