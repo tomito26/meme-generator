@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import {Form,Container,Row,Col,Button} from'react-bootstrap'
+import {Form,Container,Row,Col} from'react-bootstrap'
 import './Meme.css'
 
 class MemeGenerator extends Component {
