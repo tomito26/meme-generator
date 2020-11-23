@@ -1,0 +1,25 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-weight: 900;
+}
+
+.bottom{
+    position: absolute;
+    bottom: 8px;
+    left:200px;
+    font-weight: 100px;
+
+}
+
+.top{
+    position: absolute;
+    top:0;
+    left:200px;
+    text-align: center;
+    font-weight: 1000px;
+    
+
+}
+
